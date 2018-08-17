@@ -1,0 +1,24 @@
+.MMM-NPR {
+	width: 420px;
+	line-height: 70%; }
+.MMM-NPR .container{
+    display: flex;
+}
+.MMM-NPR .fixed{
+    width: 100% !important;
+  height: auto !important;
+  padding-right: 15px;
+}
+.MMM-NPR .flex-item{
+    flex-grow: 1;
+	font-size: .5em;
+	color: white;
+   text-align: left;
+   
+}
+.MMM-NPR .imgs {
+	width: 100% !important;
+  height: auto !important;
+   border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+}

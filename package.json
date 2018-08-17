@@ -1,0 +1,25 @@
+{
+  "name": "mmm-npr",
+  "version": "1.0.0",
+  "description": "Inspired by [NHubbard's Snow Plugin](https://github.com/nhubbard/MagicPlugins/tree/master/snow) I created a little more realistic snow plugin to improve your winter experience!",
+  "main": "MMM-Gas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cowboysdude",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "google-translate-api": "^2.3.0",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cowboysdude/MMM-GAS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cowboysdude/MMM-GAS/issues"
+  },
+  "homepage": "https://github.com/cowboysdude/MMM-GAS#readme"
+}
