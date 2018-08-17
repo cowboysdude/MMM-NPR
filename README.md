@@ -2,11 +2,13 @@
 News modules based on NPR news
 ## Examples
 
-![](examples/Capture.PNG) 
+![](examples/EN.PNG) 
 
-![](examples/de.png) 
+![](examples/ES.PNG) 
 
-Works with your default language!! (You must set the title!)
+![](examples/SV.PNG) 
+
+Works with your default language!! 
 
 ## Your terminal installation instructions
 
